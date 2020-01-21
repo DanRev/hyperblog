@@ -18,6 +18,15 @@ body {
   margin: 0;
   padding: 0.5em;
 }
+.footer {
+  background: #4545a5;
+  color: white;
+  text-align: center;
+  box-shadow: 0px 6px 11px -1px rgba(0, 0, 0, 0.75);
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5em;
+}
 
 .header .tagline {
   padding: 0 0 0 1em;
